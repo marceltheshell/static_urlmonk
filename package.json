@@ -2,7 +2,7 @@
   "name": "static_urlmonkapi",
   "version": "1.0.0",
   "description": "Description_here",
-  "main": "index.js",
+  "main": "server.js",
   "authors": [
     "Marcel Degas <marcel.degas@gmail.com>"
   ],
