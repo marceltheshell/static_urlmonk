@@ -1,0 +1,49 @@
+body{
+	font-size: 62.5%;
+	color: #fff;
+}
+
+h1 {
+	font-size: 14em;
+}
+
+#page-wrapper {
+	background: url(../img/starrySky.jpeg) no-repeat center center fixed; 
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Raleway', sans-serif;
+}
+
+.text-container {
+	height: 100%;
+	text-align: center;
+	padding-top: 16vh;
+}
+
+.subtext {
+	padding-top:4vh;
+	letter-spacing: 15px;
+}
+
+.chrome-img {
+	width:54px; /* you can use % */
+    height: auto;
+}
+
+.coming-soon {
+	padding-top: 3vh;
+	font-size: 9em;
+	font-family: 'Dancing Script', cursive;
+}
+
+
+
+
+
+
+
